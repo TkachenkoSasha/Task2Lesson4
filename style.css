@@ -3,7 +3,7 @@
 }
 
 .highlighted, .company-data {
-    background-color: yellow;
+    color: yellow;
 }
 
 li.user-data {
