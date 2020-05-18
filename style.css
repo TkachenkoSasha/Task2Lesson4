@@ -16,11 +16,8 @@ button:disabled {
     border: 2px dashed grey;
 }
 
-button:enabled{
-    color: grey;
-}
-
 button:enabled:hover {
+    color: white;
     background-color: grey;
 }
 
