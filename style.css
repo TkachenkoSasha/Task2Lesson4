@@ -1,22 +1,25 @@
-/* li {
-    margin-bottom: 16px;
-} */
+.theory::first-line {
+    font-size: 24px;
+}
 
-/* li:first-child span {
+.theory::first-letter {
+    font-size: 36px;
+    margin-left: 16px;
+    color: orange;
+}
+
+.theory::selection {
     background-color: red;
     color: white;
 }
 
-li:last-child span {
-    background-color: black;
-    color: white;
-} */
-/* 
-li:nth-child(even) {
-    margin-left: 16px;
+a::before {
+    content: '> ';
 }
 
-.paragraphs p:nth-of-type(odd){
-    background-color: grey;
-} */
+a::after {
+    content: ' <';
+}
+
+
 
