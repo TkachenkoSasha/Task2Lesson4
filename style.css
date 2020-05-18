@@ -13,11 +13,11 @@ a:hover {
 }
 
 button:disabled {
-    border: 3px dashed grey;
+    border: 2px dashed grey;
 }
 
 button:enabled{
-    color: white;
+    color: grey;
 }
 
 button:enabled:hover {
