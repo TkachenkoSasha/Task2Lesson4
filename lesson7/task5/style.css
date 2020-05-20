@@ -26,9 +26,9 @@ input {
     background-color: white;;
 }
 
-/* #special {
-    background-color: 3px solid white;
-} */
+#special {
+    border: 3px solid blue;
+}
 
 div p {
     font-size: 25px;
@@ -38,12 +38,12 @@ input[type="text"] {
     background-color: grey;
 }
 
-div:nth-of-type(3) p:nth-child(2) {
+/* div:nth-of-type(3) p:nth-child(2) {
     border: 5px solid white;
-} 
+}  */
 
 div:nth-of-type(3) em{
-    color: white !important;
+    color: white;
     font-size: 20px;
 }
 
