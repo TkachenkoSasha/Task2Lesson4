@@ -42,8 +42,8 @@ input[type="text"] {
     border: 5px solid white;
 } */
 
-/* div:nth-child(3) em {
-    color: white;
+div:nth-child(3) em {
+    /*color: white;*/
     font-size: 20px;
-} */
+}
 
