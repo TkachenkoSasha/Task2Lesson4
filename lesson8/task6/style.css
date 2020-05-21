@@ -1,0 +1,25 @@
+div {
+    border: 2px solid black;
+    margin: 50px;
+}
+
+.rec-1 {
+    background-color: blue;
+    height: 400px;
+}
+
+.rec-2 {
+    background-color: yellow;
+    height: 300px;
+}
+
+.rec-3 {
+    background-color: green;
+    height: 200px;
+}
+
+.rec-4 {
+    background-color: pink;
+    height: 100px;
+}
+
