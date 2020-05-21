@@ -1,22 +1,25 @@
 div {
     border: 2px solid black;
-    margin: 50px;
     box-sizing: border-box;
 }
 
 .rec-1 {
     background-color: blue;
     height: 400px;
+    margin: 50px;
+    padding: 50px;
 }
 
 .rec-2 {
     background-color: yellow;
     height: 300px;
+    padding: 50px;
 }
 
 .rec-3 {
     background-color: green;
     height: 200px;
+    padding: 50px;
 }
 
 .rec-4 {
