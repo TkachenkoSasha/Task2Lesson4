@@ -37,7 +37,7 @@ main {
     height: 200px;
     background-color: aquamarine;
     margin-left: calc(50% - 100px);
-    margin-top: calc(50% - 100px);
+    margin-top: calc(50% - 200px);
 }
 
 .ear {
@@ -69,7 +69,7 @@ main {
 .eye_left {
     position: absolute;
     top: 80px;
-    right: 40px;
+    left: 40px;
 }
 
 .eye_right {
