@@ -4,7 +4,7 @@
 
 header {
     display: flex;
-    justify-content: center;;
+    justify-content: center;
 }
 
 .articles-list {
@@ -13,6 +13,7 @@ header {
 }
 
 .article {
+    flex-grow: 1;
     margin: 8px;
     padding: 16px;
     background-color: bisque;
