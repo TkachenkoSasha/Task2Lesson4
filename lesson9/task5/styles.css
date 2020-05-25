@@ -37,7 +37,7 @@ main {
     height: 200px;
     background-color: aquamarine;
     margin-left: calc(50% - 100px);
-    margin-top: calc(50% - 200px);
+    margin-top: calc(50% - 150px);
 }
 
 .ear {
