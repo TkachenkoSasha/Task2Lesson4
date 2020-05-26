@@ -3,13 +3,12 @@
 }
 
 header {
-    display: flex;
     padding: 21px;
     padding-bottom: 22px;
 }
 
 h1 {
-    margin: 0 auto;
+    text-align: center;
 }
 
 .articles-list {
