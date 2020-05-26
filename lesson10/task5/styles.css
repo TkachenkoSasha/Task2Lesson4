@@ -2,25 +2,19 @@
     box-sizing: border-box;
 }
 
-header {
-    padding: 21px;
-    padding-bottom: 22px;
-}
-
 h1 {
     text-align: center;
 }
-
 .articles-list {
     display: flex;
     flex-wrap: wrap;
 }
-
 .article {
-    flex-grow: 1;
-    margin: 8px;
-    padding: 16px;
-    padding-bottom: 5px;
-    background-color: bisque;
+    /* flex: 300px 1 0; */
     width: 300px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    padding: 16px;
+    margin: 8px;
+    background-color: bisque;
 }
